@@ -1,0 +1,7 @@
+{
+  "name": "mentalhealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
